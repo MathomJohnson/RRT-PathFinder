@@ -1,0 +1,16 @@
+# RRT Path Planning Project Requirements
+
+# Core numerical computing
+numpy>=1.24.0
+
+# Scientific computing (for Rotation transformations in kinematics)
+scipy>=1.10.0
+
+# Computer vision (for camera processing)
+opencv-python>=4.8.0
+
+# Optional: For plotting results in Sprint 6
+matplotlib>=3.7.0
+
+# Note: Webots controller library is provided by Webots installation
+# and does not need to be installed via pip
